@@ -1,0 +1,39 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    border: 0px;
+    outline: 0;
+    border-radius: 5px;
+    box-shadow: inset 6px 6px 6px #cbced1, inset -6px -6px 6px white;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
